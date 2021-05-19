@@ -1,3 +1,11 @@
+# description
+
+## application that displays images and information of horned animals.
+
+# author:Eman Mkhareez  
+                
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
